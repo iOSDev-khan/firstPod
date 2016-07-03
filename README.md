@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # firstPod
 
 [![CI Status](http://img.shields.io/travis/Mushrankhan/firstPod.svg?style=flat)](https://travis-ci.org/Mushrankhan/firstPod)
@@ -27,3 +28,6 @@ Mushrankhan, mushrankhan76@gmail.com
 ## License
 
 firstPod is available under the MIT license. See the LICENSE file for more info.
+=======
+# firstPod
+>>>>>>> 771fdd70ba5eff1bdb03c646e6cd0c00cb4bb66a
